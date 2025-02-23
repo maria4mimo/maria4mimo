@@ -1,4 +1,4 @@
-👋 Hi, I’m Maria (@maria4mimo)
+# Hi, 👋 I’m Maria (@maria4mimo)
 
 👀 I'm passionate about data and data visualization! With 15+ years in the third sector, I’ve worked extensively with data—gathering, cleaning, uploading, and extracting reports. While I’ve been well-versed in Excel and data manipulation, I’ve always wanted to take my skills to the next level.
 
@@ -15,7 +15,7 @@
 - DataCamp: Python Fundamentals & Intermediate – 2023/24
 - Data Carpentry (University of Edinburgh) - Data Cleansing & Introduction to Python - 2023
   
-- 📫 How to reach me: maria4mimo@googlemail.com
+- 📫 How to reach me: [Connect via LinkedIn](https://www.linkedin.com/in/maria-laskowska-518ba645/) or [Email](maria4mimo@googlemail.com)
 
 <!---
 maria4mimo/maria4mimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
