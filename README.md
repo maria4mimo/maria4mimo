@@ -1,6 +1,6 @@
 👋 Hi, I’m Maria (@maria4mimo)
 
-👀 I'm passionate about data and data visualization! With 15+ years in the third sector, I’ve worked extensively with data—gathering, cleaning, uploading, and extracting data reports. While I’ve been well-versed in Excel and data manipulation, I’ve always wanted to take my skills to the next level.
+👀 I'm passionate about data and data visualization! With 15+ years in the third sector, I’ve worked extensively with data—gathering, cleaning, uploading, and extracting reports. While I’ve been well-versed in Excel and data manipulation, I’ve always wanted to take my skills to the next level.
 
 🌱 I'm currently upskilling in data analytics to transition into a data analyst role. Here’s a snapshot of my learning journey so far:
 
