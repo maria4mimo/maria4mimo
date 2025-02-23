@@ -15,7 +15,7 @@
 - DataCamp: Python Fundamentals & Intermediate – 2023/24
 - Data Carpentry (University of Edinburgh) - Data Cleansing & Introduction to Python - 2023
   
-- 📫 How to reach me: [Connect via LinkedIn](https://www.linkedin.com/in/maria-laskowska-518ba645/) or [Email](maria4mimo@googlemail.com)
+- 📫 How to reach me: [Connect via LinkedIn](https://www.linkedin.com/in/maria-laskowska-518ba645/) or Email: maria4mimo@googlemail.com
 
 <!---
 maria4mimo/maria4mimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
